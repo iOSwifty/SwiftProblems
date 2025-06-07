@@ -1,5 +1,6 @@
 /*
-Begin01. Kvadratning tomoni a berilgan. Uning perimetri aniqlansin.
+Begin01.
+Kvadratning tomoni a berilgan. Uning perimetri aniqlansin.
 P = 4 · a
 */
 

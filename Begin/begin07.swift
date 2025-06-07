@@ -1,5 +1,6 @@
 /*
-Begin07. Doiraning radiusi R berilgan. Uning uzunligi L va yuzasi S aniqlansin.
+Begin07.
+Doiraning radiusi R berilgan. Uning uzunligi L va yuzasi S aniqlansin.
 L = 2 · π · R
 S = π · R²
 */

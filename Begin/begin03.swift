@@ -1,5 +1,6 @@
 /*
-Begin03. To‘g‘ri to‘rtburchakning tomonlari a va b berilgan.
+Begin03.
+To‘g‘ri to‘rtburchakning tomonlari a va b berilgan.
 Uning yuzasi S = a · b, va P = 2 · (a + b) perimetri aniqlansin.
 */
 

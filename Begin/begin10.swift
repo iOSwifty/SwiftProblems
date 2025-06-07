@@ -1,5 +1,6 @@
 /*
-Begin10. Nolga teng bo‘lmagan ikkita son berilgan.
+Begin10.
+Nolga teng bo‘lmagan ikkita son berilgan.
 Ularning yig‘indisi, ko‘paytmasi va har birining kvadrati aniqlansin.
 */
 import Foundation

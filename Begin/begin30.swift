@@ -1,5 +1,6 @@
 /*
-begin30. Radianlarda berilgan burchak (α) gradusga aylantirilsin:
+Begin30.
+Radianlarda berilgan burchak (α) gradusga aylantirilsin:
 0 < α < 2π
 */
 

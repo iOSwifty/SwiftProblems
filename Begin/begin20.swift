@@ -1,5 +1,6 @@
 /*
-Begin20. Tekislikdagi berilgan ikki nuqta (x₁, y₁) va (x₂, y₂) orasidagi masofa topilsin.
+Begin20.
+Tekislikdagi berilgan ikki nuqta (x₁, y₁) va (x₂, y₂) orasidagi masofa topilsin.
 √((x₂ − x₁)² + (y₂ − y₁)²)
 */
 

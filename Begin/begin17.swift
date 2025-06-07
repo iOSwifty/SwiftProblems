@@ -1,5 +1,6 @@
 /*
-Begin17. Sonlar o‘qida A, B, C nuqtalar berilgan.
+Begin17.
+Sonlar o‘qida A, B, C nuqtalar berilgan.
 AC va BC kesmalarning uzunligini va kesmalar uzunligining yig‘indisini topuvchi
 programma tuzilsin.
 */

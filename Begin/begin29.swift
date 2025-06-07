@@ -1,5 +1,6 @@
 /*
-begin29. Gradusda berilgan burchak (α) radianlarga o'tkazilsin:
+Begin29.
+Gradusda berilgan burchak (α) radianlarga o'tkazilsin:
 0 < a < 360
 */
 

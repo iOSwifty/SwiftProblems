@@ -1,5 +1,6 @@
 /*
-Begin02. Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin.
+Begin02.
+Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin.
 S = a²
 */
 import Foundation

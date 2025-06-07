@@ -1,5 +1,6 @@
 /*
-Begin22. Berilgan A va B sonlarining qiymatlarini almashtiring.
+Begin22.
+Berilgan A va B sonlarining qiymatlarini almashtiring.
 A va B ning yangi qiymati ekranga chiqarilsin.
 */
 

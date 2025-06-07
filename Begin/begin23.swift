@@ -1,5 +1,6 @@
 /*
-begin23. A, B va C sonlari berilgan.
+Begin23.
+A, B va C sonlari berilgan.
 A → B ga, B → C ga, C esa → A ga almashtirilsin.
 Natijada A, B, C ning yangi qiymatlari chiqarilsin.
 */

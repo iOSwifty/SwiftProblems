@@ -1,5 +1,6 @@
 /*
-Begin19. To‘g‘ri to‘rtburchakning qarama-qarshi uchlari koordinatalari berilgan.
+Begin19.
+To‘g‘ri to‘rtburchakning qarama-qarshi uchlari koordinatalari berilgan.
 Uning tomonlari koordinata o‘qiga parallel.
 To‘g‘ri to‘rtburchakning perimetri va yuzasi aniqlansin.
 */

@@ -1,5 +1,6 @@
 /*
-Begin08. Ikkita son a va b berilgan. Ularning o‘rta arifmetigi aniqlansin.
+Begin08.
+Ikkita son a va b berilgan. Ularning o‘rta arifmetigi aniqlansin.
 (a + b) / 2
 */
 

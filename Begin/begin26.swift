@@ -1,5 +1,6 @@
 /*
-begin26. x ning qiymati berilganda, quyidagi ifoda qiymatini hisoblovchi dastur tuzilsin:
+Begin26.
+x ning qiymati berilganda, quyidagi ifoda qiymatini hisoblovchi dastur tuzilsin:
 y = 4 * (x - 3)^5 - 7 * (x - 3)^3 +2
 */
 

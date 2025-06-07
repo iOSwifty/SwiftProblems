@@ -1,5 +1,6 @@
 /*
-Begin21. Uchburchakning uchta tomoni uchi koordinatalari berilgan:
+Begin21.
+Uchburchakning uchta tomoni uchi koordinatalari berilgan:
 (x₁, y₁), (x₂, y₂), (x₃, y₃)
 Ikki nuqta orasidagi masofani topish Begin20 da berilgan.
 Uchburchakning yuzasini va perimetrini toping.

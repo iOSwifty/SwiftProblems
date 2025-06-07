@@ -1,5 +1,6 @@
 /*
-Begin14. Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin.
+Begin14.
+Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin.
 L = 2 · π · R
 S = π · R², π = 3.14
 */

@@ -1,5 +1,6 @@
 /*
-Begin12. To‘g‘ri uchburchakning katetlari a va b berilgan.
+Begin12.
+To‘g‘ri uchburchakning katetlari a va b berilgan.
 Uning gipotenuzasi c va perimetri P aniqlansin.
 c = √(a² + b²)
 P = a + b + c

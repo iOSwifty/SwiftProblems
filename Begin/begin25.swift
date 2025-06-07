@@ -1,5 +1,6 @@
 /*
-begin25.x ning qiymati berilganda, quyidagi ifoda qiymatini topuvchi dastur tuzilsin:
+Begin25.
+x ning qiymati berilganda, quyidagi ifoda qiymatini topuvchi dastur tuzilsin:
 y = 3 * x^5 - 6 * x^2 - 7
 */
 

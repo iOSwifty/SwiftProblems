@@ -1,5 +1,6 @@
 /*
-Begin04. Aylananing diametri d berilgan. Uning uzunligi aniqlansin
+Begin04.
+Aylananing diametri d berilgan. Uning uzunligi aniqlansin
 L = π · d, bu yerda π = 3.14
 */
 

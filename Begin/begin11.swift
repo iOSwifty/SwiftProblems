@@ -1,5 +1,6 @@
 /*
-Begin11. Nolga teng bo‘lmagan ikkita son berilgan.
+Begin11.
+Nolga teng bo‘lmagan ikkita son berilgan.
 Ularning yig‘indisi, ko‘paytmasi va har birining modulini aniqlansin.
 */
 import Foundation

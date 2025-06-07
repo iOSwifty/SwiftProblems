@@ -1,5 +1,6 @@
 /*
-Begin16. Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin.
+Begin16.
+Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin.
 |x₂ − x₁|
 */
 

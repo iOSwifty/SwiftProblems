@@ -1,5 +1,6 @@
 /*
-begin27. A soni berilgan. Quyidagilarning qiymatini topuvchi dastur tuzilsin:
+Begin27.
+A soni berilgan. Quyidagilarning qiymatini topuvchi dastur tuzilsin:
 A^2, A^3, A^4
 */
 

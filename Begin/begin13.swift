@@ -1,6 +1,6 @@
-
 /*
-Begin13. Umumiy markazga bo‘lgan ikkita aylana radiusi berilgan.
+Begin13.
+Umumiy markazga bo‘lgan ikkita aylana radiusi berilgan.
 R₁, R₂ (R₁ > R₂)
 Ularning yuzalari S₁ va S₂, ularning ayirmasi S₃ aniqlansin.
 S₁ = π · R₁², S₂ = π · R₂², S₃ = π · (R₁² − R₂²)

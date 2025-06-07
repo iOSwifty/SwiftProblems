@@ -1,5 +1,5 @@
 /*
-Begin5. Kubning yon tomoni a berilgan.
+Begin05. Kubning yon tomoni a berilgan.
 Uning hajmini V = a³ va to‘la sirti S = 6 · a² aniqlansin.
 */
 

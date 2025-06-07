@@ -1,5 +1,5 @@
 /*
-Begin6. Paralelepipedning tomonlari a, b, c berilgan. Uning hajmini
+Begin06. Paralelepipedning tomonlari a, b, c berilgan. Uning hajmini
 V = a · b · c va to‘la sirti S = 2 · (a · b + b · c + a · c) aniqlansin.
 */
 

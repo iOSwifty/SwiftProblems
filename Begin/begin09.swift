@@ -1,6 +1,5 @@
-
 /*
-Begin9. Ikkita manfiy bo‘lmagan son a va b berilgan. 
+Begin09. Ikkita manfiy bo‘lmagan son a va b berilgan.
 Ularning o‘rta geometrigi aniqlansin.
 √(a · b)
 */

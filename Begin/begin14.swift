@@ -1,0 +1,14 @@
+/*
+Begin14. Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin.
+L = 2 · π · R
+S = π · R², π = 3.14
+*/
+
+import Foundation
+
+let L = 12.0
+
+let R = L / (Double.pi * 2)
+let S = Double.pi * pow(R, 2)
+
+print(" R = \(R) \n S = \(S) ")

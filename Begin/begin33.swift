@@ -6,4 +6,11 @@ X kg konfet A so'm turadi,
 
 import Foundation
 
-let Xkg = 100000
+let A: Double = 100000
+let X: Double = 4
+let oneKG = A / X
+
+let Y: Double = 5
+let Ykg: Double = Y * oneKG
+
+print("1 kg \(oneKG), \(Y) kg \(Ykg)")

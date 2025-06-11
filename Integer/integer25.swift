@@ -5,3 +5,11 @@ Hafta kunlari quyidagicha tartibda berilgan.
 1–365 oralig‘ida yotuvchi K soni berilgan. Agar 1-yanvar payshanba bo‘lsa,
 kiritilgan K — kun haftaning qaysi kuniga to‘g‘ri kelishini aniqlovchi programma tuzilsin.
 */
+
+import Foundation
+
+let K = 4
+
+let haftaKuni = (K + 3) % 7
+
+print(K, " - > ", "haftaning", haftaKuni, "- kuni")

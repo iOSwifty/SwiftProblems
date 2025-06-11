@@ -7,3 +7,12 @@ Hafta kunlari quyidagicha tartibda berilgan:
 Agar 1-yanvar N-chi kunga to‘g‘ri kelsa,
 kiritilgan K — kun haftaning qaysi kuniga to‘g‘ri kelishini aniqlovchi programma tuzilsin.
 */
+
+import Foundation
+
+let K = 8
+let N = 1
+let formula = (K + N - 1) % 7
+let haftaKuni = formula == 0 ? 7 : formula
+
+print(K, " - > ", "haftaning", haftaKuni, "- kuni")

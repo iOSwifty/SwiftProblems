@@ -6,3 +6,11 @@ Hafta kunlari quyidagicha tartibda berilgan.
 Agar 1-yanvar dushanba bo‘lsa, kiritilgan
 K — kun haftaning qaysi kuniga to‘g‘ri kelishini aniqlovchi programma tuzilsin.
 */
+
+import Foundation
+
+let K = 8
+
+let haftaKuni = K % 7
+
+print(K, " - > ", "haftaning", haftaKuni, "- kuni")

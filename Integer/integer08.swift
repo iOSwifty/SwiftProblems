@@ -6,16 +6,11 @@ sonni aniqlovchi programma tuzilsin.
 */
 import Foundation
 
-let n = 89
+let n = 91
 
 var onlik = n / 10
 var birlik = n % 10
 
-let temp = onlik
+let newNumber = birlik * 10 + onlik
 
-onlik = birlik
-birlik = temp
-
-let newNumber = String(onlik) + String(birlik)
-
-print(newNumber)
+print(n, " -> ", newNumber)

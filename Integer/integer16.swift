@@ -1,5 +1,10 @@
 /*
 Integer16.
+A three-digit integer is given. Output an integer obtained from the given
+one by exchange a ones digit and a tens digit (for example, 123 will be
+changed to 132).
+
+Integer16.
 Uch xonali son berilgan.
 Uning o‘nliklar xonasidagi raqam bilan birliklar xonasidagi
 raqamni almashtirishdan hosil bo‘lgan sonni aniqlovchi programma tuzilsin.

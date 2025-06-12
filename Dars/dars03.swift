@@ -10,5 +10,5 @@ let soat = min / 60 - kun * 24
 let m = min % 60
 let s = sec % 60
 
-//let hourly: Int =(startSoat + soat) >= 10 ? (startSoat + soat) : String(0) + String(startSoat + soat)
+let hourly: Int
 print("\(kun).06.2025 -> \(soat):\(m):\(s)")

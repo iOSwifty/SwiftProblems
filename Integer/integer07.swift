@@ -1,5 +1,8 @@
 /*
-Integer7.
+Integer07.
+A two-digit integer is given. Find the sum and the product of its digits.
+
+Integer07.
 Ikki xonali son berilgan.
 Uning raqamlari yig‘indisini aniqlovchi programma tuzilsin.
 */

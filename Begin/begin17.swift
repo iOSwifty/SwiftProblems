@@ -1,5 +1,9 @@
 /*
 Begin17.
+Three points A, B, C are given on the real axis. Find the length of AC, the
+length of BC, and the sum of these lengths.
+
+Begin17.
 Sonlar o‘qida A, B, C nuqtalar berilgan.
 AC va BC kesmalarning uzunligini va kesmalar uzunligining yig‘indisini topuvchi
 programma tuzilsin.

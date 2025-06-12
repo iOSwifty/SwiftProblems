@@ -1,7 +1,10 @@
 /*
 Begin16.
-Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin.
-|x₂ − x₁|
+Two points with the coordinates x1 and x2 are given on the real axis. Find
+the distance between these points: |x2 − x1|.
+
+Begin16.
+Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin. |x₂ − x₁|
 */
 
 import Foundation

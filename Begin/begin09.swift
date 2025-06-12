@@ -1,8 +1,11 @@
 /*
 Begin09.
+Given two nonnegative numbers a and b, find their geometrical mean
+(a square root of their product): √(a · b)
+
+Begin09.
 Ikkita manfiy bo‘lmagan son a va b berilgan.
-Ularning o‘rta geometrigi aniqlansin.
-√(a · b)
+Ularning o‘rta geometrigi aniqlansin: √(a · b)
 */
 
 import Foundation

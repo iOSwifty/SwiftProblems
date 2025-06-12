@@ -1,5 +1,9 @@
 /*
 Begin25.
+Given an independent variable x, find the value of a function
+y = 3 * x^5 - 6 * x^2 - 7
+
+Begin25.
 x ning qiymati berilganda, quyidagi ifoda qiymatini topuvchi dastur tuzilsin:
 y = 3 * x^5 - 6 * x^2 - 7
 */

@@ -1,5 +1,13 @@
 /*
 Begin21.
+The coordinates (x1, y1), (x2, y2), (x3, y3) of the triangle vertices are given.
+Find the perimeter and the area of the triangle using the formula for distance
+between two points in the plane (see Begin20). The area of a triangle with
+sides a, b, c can be found by Heron’s formula:
+S = (p·(p − a)·(p − b)·(p − c))1/2,
+where p = (a + b + c)/2 is the half-perimeter.
+
+Begin21.
 Uchburchakning uchta tomoni uchi koordinatalari berilgan:
 (x₁, y₁), (x₂, y₂), (x₃, y₃)
 Ikki nuqta orasidagi masofani topish Begin20 da berilgan.

@@ -1,5 +1,9 @@
 /*
-Integer8.
+Integer08.
+A two-digit integer is given. Output an integer obtained from the given one
+by exchange of its digits.
+
+Integer08.
 Ikki xonali son berilgan.
 Uning raqamlarni o‘rnini almashtirishdan hosil bo‘lgan
 sonni aniqlovchi programma tuzilsin.

@@ -2,9 +2,9 @@ import Foundation
 
 let n = 10
 let narx = 300.0
+var fnarx: Double
 
 for i in 1...n {
-    var fi = Double(i)
-    var fnarx = (fi / 10) * narx
-    print("\(fi / 10) - \(fnarx)")
+    fnarx = (Double(i) / 10) * narx
+    print("\(Double(i) / 10) - \(fnarx)")
 }

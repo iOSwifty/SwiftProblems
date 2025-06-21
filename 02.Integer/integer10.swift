@@ -1,9 +1,5 @@
 /*
 Integer10.
-A three-digit integer is given. Output its last digit (a ones digit) and then
-its middle digit (a tens digit).
-
-Integer10.
 Uch xonali son berilgan.
 Oldin uni birliklar xonasidagi raqamni,
 so‘ng o‘nliklar xonasidagi raqamni chiqaruvchi programma tuzilsin.

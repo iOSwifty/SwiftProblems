@@ -1,10 +1,5 @@
 /*
 Begin23.
-Variables A, B, C are given. Change values of the variables by moving the
-given value of A into the variable B, the given value of B into the variable C,
-and the given value of C into the variable A. Output the new values of A, B, C.
-
-Begin23.
 A, B va C sonlari berilgan.
 A → B ga, B → C ga, C esa → A ga almashtirilsin.
 Natijada A, B, C ning yangi qiymatlari chiqarilsin.

@@ -1,9 +1,5 @@
 /*
 Integer14.
-A three-digit integer is given. Output an integer obtained from the given
-one by moving its right digit to the left side.
-
-Integer14.
 Uch xonali son berilgan.
 Uning o‘ngdan birinchi raqamini o‘chirib chap tarafga yozishdan
 hosil bo‘lgan sonni aniqlovchi programma tuzilsin.

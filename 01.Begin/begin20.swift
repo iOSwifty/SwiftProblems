@@ -1,9 +1,5 @@
 /*
 Begin20.
-The coordinates (x1, y1) and (x2, y2) of two points are given. Find the
-distance between the points: √((x₂ − x₁)² + (y₂ − y₁)²)
-
-Begin20.
 Tekislikdagi berilgan ikki nuqta (x₁, y₁) va (x₂, y₂) orasidagi masofa topilsin.
 √((x₂ − x₁)² + (y₂ − y₁)²)
 */

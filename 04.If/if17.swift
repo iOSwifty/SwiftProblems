@@ -1,11 +1,5 @@
 /*
 If17.
-The values of three real variables A, B, C are given. If the values are in
-ascending or descending order then double them, otherwise replace the value
-of each variable by its opposite value. Output the new values of the
-variables A, B, C.
-
-If17.
 A, B, C haqiqiy sonlari berilgan.
 Agar berilgan sonlar o‘sish yoki kamayish tartibida berilgan bo‘lsa,
 sonlarni ikkilantiring, aks holda sonlarni ishorasi o‘zgartirilsin.

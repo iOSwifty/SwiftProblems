@@ -1,8 +1,5 @@
 /*
 Begin08.
-Given two numbers a and b, find their average: (a + b)/2.
-
-Begin08.
 Ikkita son a va b berilgan. Ularning o‘rta arifmetigi aniqlansin: (a + b) / 2
 */
 

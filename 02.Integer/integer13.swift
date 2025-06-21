@@ -1,9 +1,5 @@
 /*
 Integer13.
-A three-digit integer is given. Output an integer obtained from the given
-one by moving its left digit to the right side.
-
-Integer13.
 Uch xonali son berilgan.
 Uning chapdan birinchi raqamini o‘chirib
 o‘ng tarafga yozishdan hosil bo‘lgan sonni aniqlovchi programma tuzilsin.

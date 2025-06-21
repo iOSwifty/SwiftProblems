@@ -1,9 +1,5 @@
 /*
 Integer23.
-From the beginning of the day N seconds have passed (N is integer). Find
-an amount of full minutes passed from the beginning of the last hour.
-
-Integer23.
 Kun boshidan boshlab N sekund vaqt o‘tti.
 Kun boshidan boshlab qancha soat, minut va sekund o‘tganini aniqlovchi programma tuzilsin.
 */

@@ -1,10 +1,5 @@
 /*
 Begin27.
-Given a number A, compute a power A^8 using three multiplying operators
-for computing A^2, A^4, A^8 sequentially. Output all obtained powers of the
-number A.
-
-Begin27.
 A soni berilgan. Quyidagilarning qiymatini topuvchi dastur tuzilsin:
 A^2, A^4, A^8
 */

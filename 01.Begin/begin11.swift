@@ -1,9 +1,5 @@
 /*
 Begin11.
-Two nonzero numbers are given. Find the sum, the difference, the product,
-and the quotient of their absolute values.
-
-Begin11.
 Nolga teng bo‘lmagan ikkita son berilgan.
 Ularning yig‘indisi, ko‘paytmasi va har birining modulini aniqlansin.
 */

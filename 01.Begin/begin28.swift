@@ -1,10 +1,5 @@
 /*
 Begin28.
-Given a number A, compute a power A^15 using five multiplying operators
-for computing A^2, A^3, A^5, A^10, A^15 sequentially. Output all obtained powers of
-the number A.
-
-Begin28.
 A soni berilgan. Quyidagilarning qiymatini topuvchi dastur tuzilsin:
 A^2, A^3, A^5, A^10, A^15
 */

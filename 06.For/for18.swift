@@ -6,3 +6,18 @@ barcha darajalarini chiqaruvchi va yig'indini hisoblovchi programma tuzilsin.
 1 - a + a² - a³ + ... (-1)ⁿ aⁿ
 Shart operatoridan foydalanilmasin.
 */
+
+import Foundation
+
+let n = 3
+let a = 2.0
+var result = 1.0
+var sum = 1.0
+
+for i in 1...n {
+    result *= a
+    sum += result * pow(-1, Double(i))
+    print(result, terminator: " ")
+}
+print()
+print(sum)

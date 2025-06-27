@@ -23,6 +23,7 @@ while B >= C {
     B = B - C
     countB += 1
 }
+
 var count = 0
 var i = 0
 
